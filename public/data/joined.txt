@@ -1,119 +1,119 @@
-TOTAL PAPERS PUBLISHED                       T  J     R
-|                                            R  R  S  S
-V                                            O  R  R  S
--------------------------------------------------------
-76 Vijay Kumar                              22 34 20  0
--------------------------------------------------------
-67 Howie Choset                             21 22 22  2
--------------------------------------------------------
-63 Daniela Rus                              10 36 13  4
--------------------------------------------------------
-45 Metin Sitti                              15 15  6  9
-45 Wolfram Burgard                          12 17 16  0
--------------------------------------------------------
-44 Antonio Bicchi                           16 24  4  0
-44 Roland Siegwart                          11 22 10  1
--------------------------------------------------------
-43 Gaurav S. Sukhatme                       16 19  8  0
-43 Clément Gosselin                         28 14  1  0
--------------------------------------------------------
-40 Dieter Fox                                3 14 23  0
--------------------------------------------------------
-39 Oussama Khatib                           11 27  0  1
-39 Seth Hutchinson                          20 13  5  1
--------------------------------------------------------
-38 Yoshihiko Nakamura                       19 13  6  0
--------------------------------------------------------
-37 Mark R. Cutkosky                         15 17  1  4
-37 François Chaumette                       26 11  0  0
--------------------------------------------------------
-36 Todd D. Murphey                          15  8 11  2
--------------------------------------------------------
-35 Siddhartha S. Srinivasa                   1 19 15  0
--------------------------------------------------------
-34 Stergios I. Roumeliotis                  15  9 10  0
--------------------------------------------------------
-33 Peter Corke                               8 23  1  1
-33 Paul Newman                               4 20  9  0
-33 Kenneth Y. Goldberg                       7 15  9  2
--------------------------------------------------------
-32 Matthew T. Mason                          4 23  5  0
-32 David Hsu                                 3 14 15  0
-32 Daniel E. Koditschek                     13 18  1  0
--------------------------------------------------------
-31 Joel Burdick                             17 12  1  1
-31 Mac Schwager                             15  9  5  2
-31 Nathan Michael                            6  9 16  0
-31 John J. Leonard                           7 17  7  0
-31 Davide Scaramuzza                        12  4 10  5
-31 Yun-Hui Liu                              24  6  0  1
--------------------------------------------------------
-30 Bradley J. Nelson                        13 10  1  6
-30 Robert J. Wood                            6  9  3 12
-30 Steven M. LaValle                        12 14  4  0
-30 Marco Pavone                              2 13 15  0
-30 Lydia E. Kavraki                         15 12  3  0
--------------------------------------------------------
-28 Kevin M. Lynch                           15 11  2  0
-28 Nicholas Roy                              1 18  9  0
-28 Marco Hutter                             10  4  5  9
--------------------------------------------------------
-27 Dinesh Manocha                            5 10 10  2
-27 Luca Carlone                             12  6  9  0
-27 Sebastian Thrun                           1 12 14  0
--------------------------------------------------------
-26 Joris De Schutter                        16 10  0  0
-26 Frédéric Boyer                           18  7  0  1
-26 Kris K. Hauser                            8  7 11  0
-26 Elon Rimon                               15 10  1  0
-26 Jan Peters                                7 12  7  0
--------------------------------------------------------
-25 Gregory S. Chirikjian                    10 11  4  0
-25 Jean-Paul Laumond                        14  9  2  0
-25 Danica Kragic                            14  6  4  1
-25 H. Harry Asada                           15  5  5  0
--------------------------------------------------------
-24 Hugh F. Durrant-Whyte                    10 13  1  0
-24 Sergey Levine                             1  2 21  0
-24 Oliver Brock                              3 12  9  0
-24 Russ Tedrake                              1 12 10  1
-24 Aude Billard                             14  6  4  0
--------------------------------------------------------
-23 Allison M. Okamura                        9  9  2  3
-23 Alin Albu-Schäffer                       14  6  2  1
-23 Aaron M. Dollar                          10  9  2  2
-23 Domenico Prattichizzo                    12  8  3  0
-23 Calin Belta                               8 11  3  1
-23 Ryan Eustice                              6 11  6  0
-23 Fabio T. Ramos                            1 12 10  0
-23 Timothy D. Barfoot                        4 16  3  0
-23 John M. Hollerbach                       10 13  0  0
-23 Blake Hannaford                          14  7  1  1
--------------------------------------------------------
-22 Ian D. Walker                            17  4  1  0
-22 Stefano Stramigioli                      16  4  2  0
--------------------------------------------------------
-21 Tomás Lozano-Pérez                        1 11  9  0
-21 Stefan Schaal                             3 10  8  0
-21 Alberto Rodriguez                         2 12  6  1
-21 Alfred A. Rizzi                           5 13  3  0
-21 Tsuneo Yoshikawa                         14  7  0  0
-21 Soon-Jo Chung                            11  4  2  4
-21 Sertac Karaman                            5  9  7  0
-21 George J. Pappas                         14  4  3  0
-21 Christian Ott                            13  6  1  1
-21 Cyrill Stachniss                          6  5 10  0
-21 Dong Sun                                 13  7  0  1
-21 Jonathan P. How                          12  5  4  0
--------------------------------------------------------
-20 Frank Dellaert                            4  9  7  0
-20 Darwin G. Caldwell                        9  8  3  0
-20 Dongjun Lee                              14  3  2  1
-20 Magnus Egerstedt                         18  1  1  0
-20 Robert J. Webster III                    12  7  0  1
-20 Sunil Kumar Agrawal                      17  1  1  1
-20 Antonio Franchi                          10  8  2  0
-20 Auke Jan Ijspeert                         7  8  3  2
-20 Robert D. Howe                            8 10  1  1
-20 Federico Thomas                          18  0  2  0
-20 Pradeep K. Khosla                        11  9  0  0
+TOTAL PAPERS PUBLISHED               T  J  R   
+|      (**): last 5yr paper > 10     R  R  S  S
+V       (*): last 5yr paper >  5     O  R  S  R
+-----------------------------------------------
+76 Vijay Kumar                      22 34 20  0
+-----------------------------------------------
+67 Howie Choset(**)                 21 22 22  2
+-----------------------------------------------
+63 Daniela Rus(*)                   10 36 13  4
+-----------------------------------------------
+45 Metin Sitti(**)                  15 15  6  9
+45 Wolfram Burgard(*)               12 17 16  0
+-----------------------------------------------
+44 Antonio Bicchi(**)               16 24  4  0
+44 Roland Siegwart(**)              11 22 10  1
+-----------------------------------------------
+43 Gaurav S. Sukhatme(*)            16 19  8  0
+43 Clément Gosselin                 28 14  1  0
+-----------------------------------------------
+40 Dieter Fox(**)                    3 14 23  0
+-----------------------------------------------
+39 Oussama Khatib                   11 27  0  1
+39 Seth Hutchinson (*)              20 13  5  1
+-----------------------------------------------
+38 Yoshihiko Nakamura               19 13  6  0
+-----------------------------------------------
+37 Mark R. Cutkosky                 15 17  1  4
+37 François Chaumette               26 11  0  0
+-----------------------------------------------
+36 Todd D. Murphey(**)              15  8 11  2
+-----------------------------------------------
+35 Siddhartha S. Srinivasa(*)        1 19 15  0
+-----------------------------------------------
+34 Stergios I. Roumeliotis          15  9 10  0
+-----------------------------------------------
+33 Peter Corke                       8 23  1  1
+33 Paul Newman                       4 20  9  0
+33 Kenneth Y. Goldberg(*)            7 15  9  2
+-----------------------------------------------
+32 Matthew T. Mason                  4 23  5  0
+32 David Hsu(*)                      3 14 15  0
+32 Daniel E. Koditschek             13 18  1  0
+-----------------------------------------------
+31 Joel Burdick                     17 12  1  1
+31 Mac Schwager(**)                 15  9  5  2
+31 Nathan Michael                    6  9 16  0
+31 John J. Leonard                   7 17  7  0
+31 Davide Scaramuzza (**)           12  4 10  5
+31 Yun-Hui Liu(*)                   24  6  0  1
+-----------------------------------------------
+30 Bradley J. Nelson(*)             13 10  1  6
+30 Robert J. Wood(*)                 6  9  3 12
+30 Steven M. LaValle                12 14  4  0
+30 Marco Pavone (**)                 2 13 15  0
+30 Lydia E. Kavraki                 15 12  3  0
+-----------------------------------------------
+28 Kevin M. Lynch                   15 11  2  0
+28 Nicholas Roy(*)                   1 18  9  0
+28 Marco Hutter (**)                10  4  5  9
+-----------------------------------------------
+27 Dinesh Manocha                    5 10 10  2
+27 Luca Carlone(**)                 12  6  9  0
+27 Sebastian Thrun                   1 12 14  0
+-----------------------------------------------
+26 Joris De Schutter                16 10  0  0
+26 Frédéric Boyer(**)               18  7  0  1
+26 Kris K. Hauser(*)                 8  7 11  0
+26 Elon Rimon                       15 10  1  0
+26 Jan Peters (*)                    7 12  7  0
+-----------------------------------------------
+25 Gregory S. Chirikjian            10 11  4  0
+25 Jean-Paul Laumond                14  9  2  0
+25 Danica Kragic                    14  6  4  1
+25 H. Harry Asada                   15  5  5  0
+-----------------------------------------------
+24 Hugh F. Durrant-Whyte            10 13  1  0
+24 Sergey Levine(**)                 1  2 21  0
+24 Oliver Brock                      3 12  9  0
+24 Russ Tedrake                      1 12 10  1
+24 Aude Billard(**)                 14  6  4  0
+-----------------------------------------------
+23 Allison M. Okamura(*)             9  9  2  3
+23 Alin Albu-Schäffer               14  6  2  1
+23 Aaron M. Dollar                  10  9  2  2
+23 Domenico Prattichizzo(*)         12  8  3  0
+23 Calin Belta                       8 11  3  1
+23 Ryan Eustice                      6 11  6  0
+23 Fabio T. Ramos                    1 12 10  0
+23 Timothy D. Barfoot(*)             4 16  3  0
+23 John M. Hollerbach               10 13  0  0
+23 Blake Hannaford                  14  7  1  1
+-----------------------------------------------
+22 Ian D. Walker                    17  4  1  0
+22 Stefano Stramigioli              16  4  2  0
+-----------------------------------------------
+21 Tomás Lozano-Pérez(*)             1 11  9  0
+21 Stefan Schaal(*)                  3 10  8  0
+21 Alberto Rodriguez (**)            2 12  6  1
+21 Alfred A. Rizzi                   5 13  3  0
+21 Tsuneo Yoshikawa                 14  7  0  0
+21 Soon-Jo Chung(*)                 11  4  2  4
+21 Sertac Karaman(*)                 5  9  7  0
+21 George J. Pappas(*)              14  4  3  0
+21 Christian Ott (*)                13  6  1  1
+21 Cyrill Stachniss(*)               6  5 10  0
+21 Dong Sun                         13  7  0  1
+21 Jonathan P. How(**)              12  5  4  0
+-----------------------------------------------
+20 Frank Dellaert                    4  9  7  0
+20 Darwin G. Caldwell                9  8  3  0
+20 Dongjun Lee(*)                   14  3  2  1
+20 Magnus Egerstedt(*)              18  1  1  0
+20 Robert J. Webster III(*)         12  7  0  1
+20 Sunil Kumar Agrawal              17  1  1  1
+20 Antonio Franchi                  10  8  2  0
+20 Auke Jan Ijspeert                 7  8  3  2
+20 Robert D. Howe                    8 10  1  1
+20 Federico Thomas                  18  0  2  0
+20 Pradeep K. Khosla                11  9  0  0
