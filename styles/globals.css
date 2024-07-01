@@ -38,8 +38,8 @@
   }
 
   main {
-    @apply flex flex-col flex-grow min-w-full justify-center items-center;
-    @apply h-full;
+    @apply flex flex-col flex-grow lg:justify-center lg:items-center;
+    @apply h-full w-full;
   }
 
   button {
@@ -48,15 +48,23 @@
 
   .btn-active {
     @apply font-bold underline;
+    /* @apply bg-purple-500/30 text-purple-900; */
+    @apply text-blue-500;
+    @apply px-2 py-1;
+    @apply m-0.5;
   }
 
   .btn-inactive {
-    @apply no-underline;
+    @apply underline;
+    @apply px-2 py-1;
+    @apply m-0.5;
   }
 
+  h1 {
+    @apply text-xl font-bold;
+  }
   a {
-    @apply underline;
-    color: rgb(var(--text-base-rgb));
+    @apply underline text-blue-500;
   }
   p {
     @apply mb-2;
@@ -65,9 +73,12 @@
     @apply list-disc pl-4 mb-2;
   }
   pre {
-    @apply overflow-x-auto;
+    @apply overflow-x-auto w-auto;
   }
 }
 
 @layer utilities {
+  .bg-rss-brand {
+    background-color: rgb(var(--rss-brand-color-rgb));
+  }
 }

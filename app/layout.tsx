@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "@/styles/globals.css";
 
 export const metadata: Metadata = {
-  title: "RSSSR Hall of Fame",
-  description: "Robotics: RSS/SR Hall of Fame",
+  title: "Robotics Hall of Fame",
+  description: "Robotics: RSS/SR/TRO/IJRR Hall of Fame",
 };
 
 export default function RootLayout({

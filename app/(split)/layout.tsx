@@ -9,7 +9,7 @@ export default function RoboticsLayout({
   return (
     <Fragment>
       <header>
-        <Link href="/">Robotics Hall of Fame</Link>
+        <Link href="/"><h1>Robotics Hall of Fame</h1></Link>
         <div>Check separate HoF: {" "}
           <Link href="/rss">RSS</Link> / {" "}
           <Link href="/scirobotics">SR</Link> / {" "}

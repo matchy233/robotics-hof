@@ -27,14 +27,15 @@ export default function PigLayout({
   return (
     <BasePageTemplate
       table={
-        <div className="overflow-x-auto">{state === "all" ? all : last5}</div>
+        <div>{state === "all" ? all : last5}</div>
       }
     >
       <>
         <p>
-          The attached table lists authors with eight or more total papers in
-          Robotics: Science and Systems and Science Robotics. The number in a
-          column indicates the number of papers the individual had that year.
+          The Robotics Hall of Fame aims to recognize the most prolific authors in the field of robotics. The authors are ranked by the number of papers they have published in the top robotics conferences and journals. The attached table shows authors with at least a total of <strong>20</strong> papers publisehd in: <u>Robotics: Science and Systems (<strong>RSS</strong>)</u>, <u>Science Robotics(<strong>SR</strong>)</u>, <u>IEEE Transactions on Robotics (<strong>TRO</strong>)</u>, and <u>International Journal of Robotics Research (<strong>IJRR</strong>)</u>.
+        </p>
+        <p>
+          This website is inspired by <a href="https://pages.cs.wisc.edu/~arch/www/iscabibhall.html">ISCA Hall of Fame</a>, <a href="https://www.cs.utexas.edu/~vijay/hall.html">SOSP/OSDI Hall of Fame</a>, and <a href="https://www.sigmicro.org/awards/microhof.php">MICRO Hall of Fame</a> (table style).
         </p>
         <p>Three disclaimers: </p>
         <ul>
@@ -51,14 +52,13 @@ export default function PigLayout({
             typos and name changes may cause miscounts.
           </li>
         </ul>
-        <div className="justify-left sticky top-0">
+        <div className="flex justify-center">
           <button
             className={`${state === "all" ? "btn-active" : "btn-inactive"}`}
             onClick={setStateToAll}
           >
             All Years
           </button>{" "}
-          /{" "}
           <button
             className={`${state === "last5" ? "btn-active" : "btn-inactive"}`}
             onClick={setStateToLast5}

@@ -1,118 +1,118 @@
-TOTAL PAPERS PUBLISHED                       T  J     R                                                             
-|                                            R  R  S  S                                                             
-V                                            O  R  R  S                                                             
-------------------------------------------------------------------------------------------------------------------------
-22 Marco Hutter                              9  2  3  8                                                   ETH Zurich
-------------------------------------------------------------------------------------------------------------------------
-19 Howie Choset                              6  4  7  2                                   Carnegie Mellon University
-------------------------------------------------------------------------------------------------------------------------
-15 Sergey Levine                             1  1 13  0                          University of California - Berkeley
-15 Dieter Fox                                3  1 11  0                                     University of Washington
-------------------------------------------------------------------------------------------------------------------------
-14 Mac Schwager                              9  1  2  2                                          Stanford University
-14 Davide Scaramuzza                         5  0  4  5                            ETH Zurich / University of Zurich
-------------------------------------------------------------------------------------------------------------------------
-13 Luca Carlone                              7  1  5  0                        https://orcid.org/0000-0003-1884-5397
-------------------------------------------------------------------------------------------------------------------------
-12 Marco Pavone                              2  6  4  0                                          Stanford University
-12 Roland Siegwart                           4  4  3  1                                                   ETH Zurich
-12 Todd D. Murphey                           6  3  3  0                        https://orcid.org/0000-0003-2262-8176
-------------------------------------------------------------------------------------------------------------------------
-11 Shaojie Shen                             10  0  0  1               Hong Kong University of Science and Technology
-11 Antonio Bicchi                            3  8  0  0                    http://www.centropiaggio.unipi.it/~bicchi
-11 Jonathan P. How                           8  2  1  0                        Massachusetts Institute of Technology
-------------------------------------------------------------------------------------------------------------------------
-10 Sylvain Calinon                           5  4  1  0                        https://orcid.org/0000-0002-9036-6799
-10 Frédéric Boyer                            8  1  0  1                                    École des Mines de Nantes
-10 Dmitry Berenson                           1  3  5  1                                       University of Michigan
-10 Daniel I. Goldman                         0  3  3  4                        https://orcid.org/0000-0002-6954-9857
-10 Ram Vasudevan                             4  1  5  0                                       University of Michigan
-10 Metin Sitti                               0  2  1  7                        https://orcid.org/0000-0001-8249-3854
-10 Aude Billard                              6  4  0  0            Swiss Federal Institute of Technology in Lausanne
-10 Alberto Rodriguez                         1  7  2  0                        Massachusetts Institute of Technology
-------------------------------------------------------------------------------------------------------------------------
- 9 Yun-Hui Liu                               6  2  0  1                              Chinese University of Hong Kong
- 9 Shoudong Huang                            6  1  2  0                        https://orcid.org/0000-0002-6124-4178
- 9 Federico Renda                            7  2  0  0                        https://orcid.org/0000-0002-1833-9809
- 9 Claire J. Tomlin                          2  3  4  0                                     University of California
- 9 Chelsea Finn                              0  1  8  0                                          Stanford University
- 9 Dorsa Sadigh                              1  2  6  0                                          Stanford University
- 9 Jingjin Yu                                1  4  4  0                                           Rutgers University
- 9 Evangelos A. Theodorou                    1  1  7  0                              Georgia Institute of Technology
- 9 Daniela Rus                               4  3  1  1  MIT Computer Science and Artificial Intelligence Laboratory
- 9 Jan Peters                                4  3  2  0                                                 TU Darmstadt
- 9 Sebastian A. Scherer                      5  2  2  0                                   Carnegie Mellon University
-------------------------------------------------------------------------------------------------------------------------
- 8 Sertac Karaman                            3  3  2  0                                                          nan
- 8 David Hsu                                 2  3  3  0                                                             
- 8 Nikolay Atanasov                          6  1  1  0                           University of California San Diego
- 8 Sethu Vijayakumar                         7  0  1  0                                      University of Edinburgh
- 8 Cyrill Stachniss                          2  2  4  0                                       University of Freiburg
- 8 Kris Hauser                               4  2  2  0                                              Duke University
- 8 Fei Gao                                   6  0  0  2                                          Zhejiang University
- 8 Yong-Lae Park                             4  1  1  2                        https://orcid.org/0000-0002-2491-2114
- 8 Elliot Wright Hawkes                      3  1  0  4                        https://orcid.org/0000-0002-0420-5025
- 8 Shuran Song                               1  2  5  0                                          Columbia University
- 8 Michael C. Yip                            7  0  1  0                        University of California at San Diego
- 8 Elia Kaufmann                             3  0  3  2                        https://orcid.org/0000-0001-6094-5901
-------------------------------------------------------------------------------------------------------------------------
- 7 Yuke Zhu                                  1  2  4  0                                University of Texas at Austin
- 7 Jia Pan                                   4  1  1  1                                      University of Hong Kong
- 7 Robert J. Wood                            0  3  0  4                                                          nan
- 7 Fu Zhang                                  5  1  0  1                                      University of Hong Kong
- 7 Karol Hausman                             0  1  6  0                                                          nan
- 7 Soon-Jo Chung                             4  0  0  3                        https://orcid.org/0000-0002-6657-3907
- 7 Gaurav S. Sukhatme                        2  2  3  0                            University of Southern California
- 7 Bradley J. Nelson                         4  1  0  2                        https://orcid.org/0000-0001-9070-6987
- 7 Domenico Prattichizzo                     3  4  0  0                                          University of Siena
- 7 Jean-Jacques E. Slotine                   3  3  1  0                                                          MIT
- 7 Tim D. Barfoot                            1  5  1  0                        https://orcid.org/0000-0003-3899-631X
- 7 Magnus Egerstedt                          7  0  0  0                              Georgia Institute of Technology
- 7 Ian Abraham                               2  2  3  0                                                          nan
- 7 Seth Hutchinson                           3  2  2  0                              Georgia Institute of Technology
- 7 Deepak Pathak                             0  1  6  0                                   Carnegie Mellon University
- 7 Ken Goldberg                              0  2  4  1                                     University of California
- 7 Christian Ott                             5  0  1  1                                German Aerospace Center (DLR)
- 7 Lihua Xie                                 5  1  1  0                                                          nan
-------------------------------------------------------------------------------------------------------------------------
- 6 Vincent Lebastard                         5  1  0  0                        https://orcid.org/0000-0001-7306-2286
- 6 Yulun Tian                                4  2  0  0                                                          nan
- 6 Philipp Foehn                             2  0  2  2                        https://orcid.org/0000-0001-9585-1278
- 6 Cesar Dario Cadena Lerma                  1  2  3  0                                                   ETH Zurich
- 6 Baxi Chong                                0  3  2  1                        https://orcid.org/0000-0002-6187-4911
- 6 Stephanie Gil                             4  1  1  0                                                          nan
- 6 Maani Ghaffari Jadidi                     4  1  1  0                        https://orcid.org/0000-0002-4734-4295
- 6 Tucker Hermans                            2  1  3  0                        https://orcid.org/0000-0003-2496-2768
- 6 Dylan A. Shell                            2  4  0  0                          http://robotics.cs.tamu.edu/dshell/
- 6 Vladlen Koltun                            1  0  1  4                                                   Apple Inc.
- 6 Arianna Menciassi                         4  0  0  2                        https://orcid.org/0000-0001-6348-1081
- 6 Robert J. Webster III                     2  3  0  1                        https://orcid.org/0000-0003-1389-224X
- 6 Abhinav Valada                            4  1  1  0                        https://orcid.org/0000-0003-4710-3114
- 6 Daniele Pucci                             4  1  0  1                        https://orcid.org/0000-0002-7600-3203
- 6 Javier Alonso-Mora                        4  1  1  0                        https://orcid.org/0000-0003-0058-570X
- 6 Dongjun Lee                               4  0  1  1                                                          nan
- 6 Jeannette Bohg                            2  2  2  0                                          Stanford University
- 6 Jingnan Shi                               2  1  3  0                                                          nan
- 6 George J. Pappas                          5  0  1  0                                   University of Pennsylvania
- 6 Matthew C. Gombolay                       2  0  4  0                              Georgia Institute of Technology
- 6 Angel Romero                              3  0  0  3                                                          nan
- 6 Guoquan P. Huang                          3  1  2  0                                       University of Delaware
- 6 Tianyu Wang                               0  2  3  1                                           Nanjing University
- 6 D. Caleb Rucker                           5  1  0  0                        https://orcid.org/0000-0001-7181-1933
- 6 Conor James Walsh                         1  1  0  4                                           Harvard University
- 6 Kyu-Jin Cho                               3  1  0  2                                    Seoul National University
- 6 Dimos V. Dimarogonas                      5  1  0  0                        https://orcid.org/0000-0001-7309-8086
- 6 Anirudha Majumdar                         0  3  3  0                                         Princeton University
- 6 Nicholas Roy                              0  2  4  0                        Massachusetts Institute of Technology
- 6 Tomás Lozano-Pérez                        0  3  3  0                        Massachusetts Institute of Technology
- 6 Siddhartha S. Srinivasa                   0  3  3  0                                     University of Washington
- 6 Silvio Savarese                           1  2  3  0       https://scholar.google.com/citations?user=ImpbxLsAAAAJ
- 6 Sébastien Briot                           6  0  0  0                                                          nan
- 6 Kasra Khosoussi                           5  1  0  0                        https://orcid.org/0000-0002-9969-1176
- 6 Allison M. Okamura                        4  1  0  1                                          Stanford University
- 6 Wolfram Burgard                           2  1  3  0                           University of Technology Nuremberg
- 6 Arsalan Mousavian                         3  1  2  0                                                          nan
- 6 Marc Toussaint                            2  3  1  0                                                    TU Berlin
- 6 Farbod Farshidian                         3  1  0  2                        https://orcid.org/0000-0001-8269-6272
- 6 Marco Tognon                              4  1  1  0                        https://orcid.org/0000-0003-1700-9637
- 6 Stefan Schaal                             1  3  2  0                            University of Southern California
+TOTAL PAPERS PUBLISHED                       T  J     R
+|                                            R  R  S  S
+V                                            O  R  R  S
+-------------------------------------------------------
+22 Marco Hutter                              9  2  3  8
+-------------------------------------------------------
+19 Howie Choset                              6  4  7  2
+-------------------------------------------------------
+15 Sergey Levine                             1  1 13  0
+15 Dieter Fox                                3  1 11  0
+-------------------------------------------------------
+14 Mac Schwager                              9  1  2  2
+14 Davide Scaramuzza                         5  0  4  5
+-------------------------------------------------------
+13 Luca Carlone                              7  1  5  0
+-------------------------------------------------------
+12 Marco Pavone                              2  6  4  0
+12 Roland Siegwart                           4  4  3  1
+12 Todd D. Murphey                           6  3  3  0
+-------------------------------------------------------
+11 Shaojie Shen                             10  0  0  1
+11 Antonio Bicchi                            3  8  0  0
+11 Jonathan P. How                           8  2  1  0
+-------------------------------------------------------
+10 Sylvain Calinon                           5  4  1  0
+10 Frédéric Boyer                            8  1  0  1
+10 Dmitry Berenson                           1  3  5  1
+10 Daniel I. Goldman                         0  3  3  4
+10 Ram Vasudevan                             4  1  5  0
+10 Metin Sitti                               0  2  1  7
+10 Aude Billard                              6  4  0  0
+10 Alberto Rodriguez                         1  7  2  0
+-------------------------------------------------------
+ 9 Yun-Hui Liu                               6  2  0  1
+ 9 Shoudong Huang                            6  1  2  0
+ 9 Federico Renda                            7  2  0  0
+ 9 Claire J. Tomlin                          2  3  4  0
+ 9 Chelsea Finn                              0  1  8  0
+ 9 Dorsa Sadigh                              1  2  6  0
+ 9 Jingjin Yu                                1  4  4  0
+ 9 Evangelos A. Theodorou                    1  1  7  0
+ 9 Daniela Rus                               4  3  1  1
+ 9 Jan Peters                                4  3  2  0
+ 9 Sebastian A. Scherer                      5  2  2  0
+-------------------------------------------------------
+ 8 Sertac Karaman                            3  3  2  0
+ 8 David Hsu                                 2  3  3  0
+ 8 Nikolay Atanasov                          6  1  1  0
+ 8 Sethu Vijayakumar                         7  0  1  0
+ 8 Cyrill Stachniss                          2  2  4  0
+ 8 Kris Hauser                               4  2  2  0
+ 8 Fei Gao                                   6  0  0  2
+ 8 Yong-Lae Park                             4  1  1  2
+ 8 Elliot Wright Hawkes                      3  1  0  4
+ 8 Shuran Song                               1  2  5  0
+ 8 Michael C. Yip                            7  0  1  0
+ 8 Elia Kaufmann                             3  0  3  2
+-------------------------------------------------------
+ 7 Yuke Zhu                                  1  2  4  0
+ 7 Jia Pan                                   4  1  1  1
+ 7 Robert J. Wood                            0  3  0  4
+ 7 Fu Zhang                                  5  1  0  1
+ 7 Karol Hausman                             0  1  6  0
+ 7 Soon-Jo Chung                             4  0  0  3
+ 7 Gaurav S. Sukhatme                        2  2  3  0
+ 7 Bradley J. Nelson                         4  1  0  2
+ 7 Domenico Prattichizzo                     3  4  0  0
+ 7 Jean-Jacques E. Slotine                   3  3  1  0
+ 7 Tim D. Barfoot                            1  5  1  0
+ 7 Magnus Egerstedt                          7  0  0  0
+ 7 Ian Abraham                               2  2  3  0
+ 7 Seth Hutchinson                           3  2  2  0
+ 7 Deepak Pathak                             0  1  6  0
+ 7 Ken Goldberg                              0  2  4  1
+ 7 Christian Ott                             5  0  1  1
+ 7 Lihua Xie                                 5  1  1  0
+-------------------------------------------------------
+ 6 Vincent Lebastard                         5  1  0  0
+ 6 Yulun Tian                                4  2  0  0
+ 6 Philipp Foehn                             2  0  2  2
+ 6 Cesar Dario Cadena Lerma                  1  2  3  0
+ 6 Baxi Chong                                0  3  2  1
+ 6 Stephanie Gil                             4  1  1  0
+ 6 Maani Ghaffari Jadidi                     4  1  1  0
+ 6 Tucker Hermans                            2  1  3  0
+ 6 Dylan A. Shell                            2  4  0  0
+ 6 Vladlen Koltun                            1  0  1  4
+ 6 Arianna Menciassi                         4  0  0  2
+ 6 Robert J. Webster III                     2  3  0  1
+ 6 Abhinav Valada                            4  1  1  0
+ 6 Daniele Pucci                             4  1  0  1
+ 6 Javier Alonso-Mora                        4  1  1  0
+ 6 Dongjun Lee                               4  0  1  1
+ 6 Jeannette Bohg                            2  2  2  0
+ 6 Jingnan Shi                               2  1  3  0
+ 6 George J. Pappas                          5  0  1  0
+ 6 Matthew C. Gombolay                       2  0  4  0
+ 6 Angel Romero                              3  0  0  3
+ 6 Guoquan P. Huang                          3  1  2  0
+ 6 Tianyu Wang                               0  2  3  1
+ 6 D. Caleb Rucker                           5  1  0  0
+ 6 Conor James Walsh                         1  1  0  4
+ 6 Kyu-Jin Cho                               3  1  0  2
+ 6 Dimos V. Dimarogonas                      5  1  0  0
+ 6 Anirudha Majumdar                         0  3  3  0
+ 6 Nicholas Roy                              0  2  4  0
+ 6 Tomás Lozano-Pérez                        0  3  3  0
+ 6 Siddhartha S. Srinivasa                   0  3  3  0
+ 6 Silvio Savarese                           1  2  3  0
+ 6 Sébastien Briot                           6  0  0  0
+ 6 Kasra Khosoussi                           5  1  0  0
+ 6 Allison M. Okamura                        4  1  0  1
+ 6 Wolfram Burgard                           2  1  3  0
+ 6 Arsalan Mousavian                         3  1  2  0
+ 6 Marc Toussaint                            2  3  1  0
+ 6 Farbod Farshidian                         3  1  0  2
+ 6 Marco Tognon                              4  1  1  0
+ 6 Stefan Schaal                             1  3  2  0
