@@ -32,7 +32,7 @@ export default function PigLayout({
     >
       <>
         <p>
-          The Robotics Hall of Fame aims to recognize the most prolific authors in the field of robotics. The authors are ranked by the number of papers they have published in the top robotics conferences and journals. The attached table shows authors with at least a total of <strong>20</strong> papers publisehd in: <u>Robotics: Science and Systems (<strong>RSS</strong>)</u>, <u>Science Robotics(<strong>SR</strong>)</u>, <u>IEEE Transactions on Robotics (<strong>TRO</strong>)</u>, and <u>International Journal of Robotics Research (<strong>IJRR</strong>)</u>.
+          The Robotics Hall of Fame aims to recognize the most prolific authors in the field of robotics. The authors are ranked by the number of papers they have published in the top robotics conferences and journals. The attached table shows authors with at least a total of <strong>20</strong> papers published in: <u>Robotics: Science and Systems (<strong>RSS</strong>)</u>, <u>Science Robotics(<strong>SR</strong>)</u>, <u>IEEE Transactions on Robotics (<strong>TRO</strong>)</u>, and <u>International Journal of Robotics Research (<strong>IJRR</strong>)</u>.
         </p>
         <p>
           This website is inspired by <a href="https://pages.cs.wisc.edu/~arch/www/iscabibhall.html">ISCA Hall of Fame</a>, <a href="https://www.cs.utexas.edu/~vijay/hall.html">SOSP/OSDI Hall of Fame</a>, and <a href="https://www.sigmicro.org/awards/microhof.php">MICRO Hall of Fame</a> (table style).
