@@ -49,27 +49,28 @@ export default function PigLayout({
           <u>
             International Journal of Robotics Research (<strong>IJRR</strong>)
           </u>
-          . A separate Hall of Fame is also available for each conference/journal.
-          All the tables are kept in 100-ish rows.
+          . A separate Hall of Fame is also available for each
+          conference/journal. All the tables are kept in 100-ish rows.
         </p>
         <p>
           This website is inspired by{" "}
-          <a href="https://pages.cs.wisc.edu/~arch/www/iscabibhall.html">
-            ISCA Hall of Fame
-          </a>
+          <Link href="http://www.robothalloffame.org/">Robot Hall of Fame</Link>
           ,{" "}
-          <a href="https://www.cs.utexas.edu/~vijay/hall.html">
+          <Link href="https://pages.cs.wisc.edu/~arch/www/iscabibhall.html">
+            ISCA Hall of Fame
+          </Link>
+          ,{" "}
+          <Link href="https://www.cs.utexas.edu/~vijay/hall.html">
             SOSP/OSDI Hall of Fame
-          </a>
+          </Link>
           , and{" "}
-          <a href="https://www.sigmicro.org/awards/microhof.php">
+          <Link href="https://www.sigmicro.org/awards/microhof.php">
             MICRO Hall of Fame
-          </a>{" "}
-          (table style). Please see <Link href="/qna">Q&A</Link> first if you
-          have any questions.
+          </Link>{" "}
         </p>
         <p>
-          All contents are licensed under{" "}
+          Please see <Link href="/qna">Q&A</Link> first if you have any
+          questions. All contents are licensed under{" "}
           <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
             CC BY-NC-ND 4.0
           </a>
