@@ -14,7 +14,7 @@ export default function QnaPage() {
           ICRA and IROS is very high. Prestigious as they are, those conferences
           have ~50% acceptance rates + publish nearly 2000 papers per year,
           which make them less selective than RSS/SR/TRO/IJRR. Finalist papers
-          in ICRA and IROS can be a good inclusion, but it's difficult to curate
+          in ICRA and IROS can be a good inclusion, but it&apos;s difficult to curate
           due to the lack of API and the need to manually check each paper.
         </p>
         <p>
@@ -29,7 +29,7 @@ export default function QnaPage() {
         <p>
           <strong>A:</strong> JFR has a special focus on field robotics, which
           makes its scope rather small compared to the other journals and
-          conferences included. It's definitely a great journal. If many people
+          conferences included. It&apos;s definitely a great journal. If many people
           request it, I can consider adding it in the future.
         </p>
         <br />
@@ -37,14 +37,14 @@ export default function QnaPage() {
           <strong>Q:</strong> Why is the style of this website so simple?
         </p>
         <p>
-          <strong>A:</strong> It's following the style of it's inspirations (especially MICRO).
+          <strong>A:</strong> It&apos;s following the style of it&apos;s inspirations (especially MICRO).
         </p>
         <br />
         <p>
           <strong>Q:</strong> I think the paper quality of conference X is better. / I think the paper count of conference Y is wrong. / I have a suggestion for the Hall of Fame.
         </p>
         <p>
-          <strong>A:</strong> Raise an issue or start a discussion thread <Link href="https://github.com/matchy233/robotics-hof">here</Link>. It's also possible to directly contact the author of this website. Link is in the footer.
+          <strong>A:</strong> Raise an issue or start a discussion thread <Link href="https://github.com/matchy233/robotics-hof">here</Link>. It&apos;s also possible to directly contact the author of this website. Link is in the footer.
         </p>
       </div>
     </main>
