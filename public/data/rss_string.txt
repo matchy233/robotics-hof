@@ -1,0 +1,100 @@
+TOTAL PAPERS PUBLISHED        YEAR -->           
+|                             0000011111111112222
+V                             5678901234567890123
+                              -------------------
+23 Dieter Fox                 0111201001002122324
+                              -------------------
+22 Howie Choset               1100101002041221321
+                              -------------------
+21 Sergey Levine              0000000000002333028
+                              -------------------
+20 Vijay Kumar                2022122150100100001
+                              -------------------
+16 Nathan Michael             0012100032102022000
+16 Wolfram Burgard            1033200201010001002
+                              -------------------
+15 Siddhartha S. Srinivasa    0001001222210011101
+15 David Hsu                  0001101010001430300
+15 Marco Pavone               0000001001012240301
+                              -------------------
+14 Sebastian Thrun            2312101021010000000
+                              -------------------
+13 Daniel I. Goldman          0010010101130111101
+13 Evangelos A. Theodorou     0000010100100212221
+13 Daniela Rus                0101011301100210100
+                              -------------------
+12 Dorsa Sadigh               0000000000021034002
+12 Chelsea Finn               0000000000000130125
+                              -------------------
+11 Kris K. Hauser             0000101120101110002
+11 J. Andrew Bagnell          0101100210301001000
+11 Byron Boots                0000010000022120201
+11 Stefanie Tellex            0000000111102113000
+11 Anca D. Dragan             0000000111022300100
+11 Todd D. Murphey            0000000000013221101
+11 Maxim Likhachev            0001011212010002000
+11 Pieter Abbeel              1000010010101212001
+11 Lantao Liu                 0000011111000021021
+                              -------------------
+10 Russ Tedrake               0001111010002100101
+10 Roland Siegwart            0000010210100110111
+10 Cyrill Stachniss           1011100100000101111
+10 Stergios I. Roumeliotis    2110200011110000000
+10 Fabio T. Ramos             0011000010101011201
+10 Davide Scaramuzza          0000000001201112101
+10 Dinesh Manocha             2110101000001002010
+                              -------------------
+ 9 Paul Newman                0011210001000001101
+ 9 Oliver Brock               2101000002010100100
+ 9 Kenneth Y. Goldberg        0010110000101001111
+ 9 Seth J. Teller             1011011112000000000
+ 9 Tomás Lozano-Pérez         0010020000002011101
+ 9 Nicholas Roy               0001000101011001102
+ 9 Wee Sun Lee                0001101010000230000
+ 9 Leslie Pack Kaelbling      0010020000102010101
+ 9 Luca Carlone               0000001000101011112
+                              -------------------
+ 8 Gaurav S. Sukhatme         0110000020001000102
+ 8 Ram Vasudevan              0000000010000022003
+ 8 Matthew R. Walter          2000000011000001021
+ 8 Stefan Schaal              0200010000300000110
+ 8 David Held                 0000000001011000122
+ 8 Ashutosh Saxena            0000000033200000000
+ 8 Koushil Sreenath           0000000011102001011
+ 8 Jingjin Yu                 0000000000101111210
+                              -------------------
+ 7 Anastasios I. Mourikis     2110100100100000000
+ 7 Sertac Karaman             0000010000101111010
+ 7 Sethu Vijayakumar          0000001300001010100
+ 7 Claire J. Tomlin           0000010100000102200
+ 7 Matthew C. Gombolay        0000000011010001021
+ 7 Anthony Stentz             1101110011000000000
+ 7 Jan Peters                 0200010101000000200
+ 7 Frank Dellaert             2110000000111000000
+ 7 John J. Leonard            2010000001200000001
+ 7 Karol Hausman              0000000000001002004
+ 7 Shuran Song                0000000000000021022
+ 7 Silvio Savarese            0000000001010111110
+                              -------------------
+ 6 Kostas Daniilidis          1001000001010100010
+ 6 Nakul Gopalan              0000000000001102011
+ 6 Christian Plagemann        0023100000000000000
+ 6 Deepak Pathak              0000000000000000222
+ 6 Hadas Kress-Gazit          0000001111010001000
+ 6 Alberto Rodriguez          0000001000001112000
+ 6 Marc Toussaint             0000000200110101000
+ 6 Takayuki Kanda             0000003111000000000
+ 6 Dylan A. Shell             0000011111010000000
+ 6 Bilge Mutlu                0000000011100110010
+ 6 Metin Sitti                1001000001000021000
+ 6 Ron Alterovitz             0010101000001010100
+ 6 Lerrel Pinto               0000000000000102012
+ 6 Yuke Zhu                   0000000000000200211
+ 6 Julie A. Shah              0000000111010010100
+ 6 Kiril Solovey              0000000000211110000
+ 6 Yoshihiko Nakamura         0011100110100000000
+ 6 Cesar Dario Cadena Lerma   0000000100010100003
+ 6 Ryan Eustice               1000010010100110000
+                              -------------------
+                              0000011111111112222
+                              5678901234567890123

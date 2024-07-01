@@ -1,0 +1,119 @@
+TOTAL PAPERS PUBLISHED                       T  J     R                                                             
+|                                            R  R  S  S                                                             
+V                                            O  R  R  S                                                             
+------------------------------------------------------------------------------------------------------------------------
+76 Vijay Kumar                              22 34 20  0                                   University of Pennsylvania
+------------------------------------------------------------------------------------------------------------------------
+67 Howie Choset                             21 22 22  2                                   Carnegie Mellon University
+------------------------------------------------------------------------------------------------------------------------
+63 Daniela Rus                              10 36 13  4  MIT Computer Science and Artificial Intelligence Laboratory
+------------------------------------------------------------------------------------------------------------------------
+45 Metin Sitti                              15 15  6  9                        https://orcid.org/0000-0001-8249-3854
+45 Wolfram Burgard                          12 17 16  0                           University of Technology Nuremberg
+------------------------------------------------------------------------------------------------------------------------
+44 Antonio Bicchi                           16 24  4  0                    http://www.centropiaggio.unipi.it/~bicchi
+44 Roland Siegwart                          11 22 10  1                                                   ETH Zurich
+------------------------------------------------------------------------------------------------------------------------
+43 Gaurav S. Sukhatme                       16 19  8  0                            University of Southern California
+43 Clément Gosselin                         28 14  1  0                        https://orcid.org/0000-0001-7422-4515
+------------------------------------------------------------------------------------------------------------------------
+40 Dieter Fox                                3 14 23  0                                     University of Washington
+------------------------------------------------------------------------------------------------------------------------
+39 Oussama Khatib                           11 27  0  1                                          Stanford University
+39 Seth Hutchinson                          20 13  5  1                              Georgia Institute of Technology
+------------------------------------------------------------------------------------------------------------------------
+38 Yoshihiko Nakamura                       19 13  6  0                        https://orcid.org/0000-0001-7162-5102
+------------------------------------------------------------------------------------------------------------------------
+37 Mark R. Cutkosky                         15 17  1  4                                          Stanford University
+37 François Chaumette                       26 11  0  0                                                          nan
+------------------------------------------------------------------------------------------------------------------------
+36 Todd D. Murphey                          15  8 11  2                        https://orcid.org/0000-0003-2262-8176
+------------------------------------------------------------------------------------------------------------------------
+35 Siddhartha S. Srinivasa                   1 19 15  0                                     University of Washington
+------------------------------------------------------------------------------------------------------------------------
+34 Stergios I. Roumeliotis                  15  9 10  0                                      University of Minnesota
+------------------------------------------------------------------------------------------------------------------------
+33 Peter Corke                               8 23  1  1                          Queensland University of Technology
+33 Paul Newman                               4 20  9  0                                                Oxbotica Ltd.
+33 Kenneth Y. Goldberg                       7 15  9  2                                     University of California
+------------------------------------------------------------------------------------------------------------------------
+32 Matthew T. Mason                          4 23  5  0                               https://www.cs.cmu.edu/~mason/
+32 David Hsu                                 3 14 15  0                                                             
+32 Daniel E. Koditschek                     13 18  1  0                                   University of Pennsylvania
+------------------------------------------------------------------------------------------------------------------------
+31 Joel Burdick                             17 12  1  1                           California Institute of Technology
+31 Mac Schwager                             15  9  5  2                                          Stanford University
+31 Nathan Michael                            6  9 16  0                                   Carnegie Mellon University
+31 John J. Leonard                           7 17  7  0                                                          MIT
+31 Davide Scaramuzza                        12  4 10  5                            ETH Zurich / University of Zurich
+31 Yun-Hui Liu                              24  6  0  1                              Chinese University of Hong Kong
+------------------------------------------------------------------------------------------------------------------------
+30 Bradley J. Nelson                        13 10  1  6                        https://orcid.org/0000-0001-9070-6987
+30 Robert J. Wood                            6  9  3 12                                                          nan
+30 Steven M. LaValle                        12 14  4  0                                           University of Oulu
+30 Marco Pavone                              2 13 15  0                                          Stanford University
+30 Lydia E. Kavraki                         15 12  3  0                                              Rice University
+------------------------------------------------------------------------------------------------------------------------
+28 Kevin M. Lynch                           15 11  2  0                                                          nan
+28 Nicholas Roy                              1 18  9  0                        Massachusetts Institute of Technology
+28 Marco Hutter                             10  4  5  9                                                   ETH Zurich
+------------------------------------------------------------------------------------------------------------------------
+27 Dinesh Manocha                            5 10 10  2                       University of Maryland at College Park
+27 Luca Carlone                             12  6  9  0                        https://orcid.org/0000-0003-1884-5397
+27 Sebastian Thrun                           1 12 14  0                                          Stanford University
+------------------------------------------------------------------------------------------------------------------------
+26 Joris De Schutter                        16 10  0  0                                                    KU Leuven
+26 Frédéric Boyer                           18  7  0  1                                    École des Mines de Nantes
+26 Kris K. Hauser                            8  7 11  0                                              Duke University
+26 Elon Rimon                               15 10  1  0                    Technion - Israel Institute of Technology
+26 Jan Peters                                7 12  7  0                                                 TU Darmstadt
+------------------------------------------------------------------------------------------------------------------------
+25 Gregory S. Chirikjian                    10 11  4  0                         Department of Mechanical Engineering
+25 Jean-Paul Laumond                        14  9  2  0                                                         LAAS
+25 Danica Kragic                            14  6  4  1                          Royal Institute of Technology (KTH)
+25 H. Harry Asada                           15  5  5  0                                                          MIT
+------------------------------------------------------------------------------------------------------------------------
+24 Hugh F. Durrant-Whyte                    10 13  1  0       http://www.cas.edu.au/content.php/232.html?personid=24
+24 Sergey Levine                             1  2 21  0                          University of California - Berkeley
+24 Oliver Brock                              3 12  9  0                               Technical University of Berlin
+24 Russ Tedrake                              1 12 10  1                        Massachusetts Institute of Technology
+24 Aude Billard                             14  6  4  0            Swiss Federal Institute of Technology in Lausanne
+------------------------------------------------------------------------------------------------------------------------
+23 Allison M. Okamura                        9  9  2  3                                          Stanford University
+23 Alin Albu-Schäffer                       14  6  2  1                                                    TU Munich
+23 Aaron M. Dollar                          10  9  2  2                                              Yale University
+23 Domenico Prattichizzo                    12  8  3  0                                          University of Siena
+23 Calin Belta                               8 11  3  1                                            Boston University
+23 Ryan Eustice                              6 11  6  0                                       University of Michigan
+23 Fabio T. Ramos                            1 12 10  0                                         University of Sydney
+23 Timothy D. Barfoot                        4 16  3  0                        https://orcid.org/0000-0003-3899-631X
+23 John M. Hollerbach                       10 13  0  0                                           University of Utah
+23 Blake Hannaford                          14  7  1  1                        https://orcid.org/0000-0001-7370-4920
+------------------------------------------------------------------------------------------------------------------------
+22 Ian D. Walker                            17  4  1  0                                           Clemson University
+22 Stefano Stramigioli                      16  4  2  0                                         University of Twente
+------------------------------------------------------------------------------------------------------------------------
+21 Tomás Lozano-Pérez                        1 11  9  0                        Massachusetts Institute of Technology
+21 Stefan Schaal                             3 10  8  0                            University of Southern California
+21 Alberto Rodriguez                         2 12  6  1                        Massachusetts Institute of Technology
+21 Alfred A. Rizzi                           5 13  3  0                                                          nan
+21 Tsuneo Yoshikawa                         14  7  0  0                                                          nan
+21 Soon-Jo Chung                            11  4  2  4                        https://orcid.org/0000-0002-6657-3907
+21 Sertac Karaman                            5  9  7  0                                                          nan
+21 George J. Pappas                         14  4  3  0                                   University of Pennsylvania
+21 Christian Ott                            13  6  1  1                                German Aerospace Center (DLR)
+21 Cyrill Stachniss                          6  5 10  0                                       University of Freiburg
+21 Dong Sun                                 13  7  0  1                                 City University of Hong Kong
+21 Jonathan P. How                          12  5  4  0                        Massachusetts Institute of Technology
+------------------------------------------------------------------------------------------------------------------------
+20 Frank Dellaert                            4  9  7  0                              Georgia Institute of Technology
+20 Darwin G. Caldwell                        9  8  3  0                        https://orcid.org/0000-0002-6233-9961
+20 Dongjun Lee                              14  3  2  1                                                          nan
+20 Magnus Egerstedt                         18  1  1  0                              Georgia Institute of Technology
+20 Robert J. Webster III                    12  7  0  1                        https://orcid.org/0000-0003-1389-224X
+20 Sunil Kumar Agrawal                      17  1  1  1                                                          nan
+20 Antonio Franchi                          10  8  2  0                  http://homepages.laas.fr/afranchi/robotics/
+20 Auke Jan Ijspeert                         7  8  3  2                                                         EPFL
+20 Robert D. Howe                            8 10  1  1                                                          nan
+20 Federico Thomas                          18  0  2  0                          Polytechnic University of Catalonia
+20 Pradeep K. Khosla                        11  9  0  0                                   Carnegie Mellon University

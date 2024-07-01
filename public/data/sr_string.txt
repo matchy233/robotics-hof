@@ -1,0 +1,92 @@
+TOTAL PAPERS PUBLISHED        YEAR --> 
+|                             111122222
+V                             678901234
+                              ---------
+12 Robert J. Wood             034101120
+                              ---------
+ 9 Metin Sitti                011021301
+ 9 Marco Hutter               000110232
+                              ---------
+ 8 Conor J. Walsh             021101111
+                              ---------
+ 7 Melisa Yashinski           000000034
+                              ---------
+ 6 Robert F. Shepherd         102110100
+ 6 Bradley J. Nelson          011202000
+ 6 Vladlen Koltun             000211110
+ 6 Amos Matsiko               000000024
+ 6 Michael Thomas Tolley      001112010
+ 6 Kyu-Jin Cho                003102000
+                              ---------
+ 5 Daniel I. Goldman          000112010
+ 5 Davide Scaramuzza          000012110
+ 5 Mirko Kovac                011200100
+ 5 Elliot Wright Hawkes       010012010
+                              ---------
+ 4 Daniela Rus                011100010
+ 4 Stefano Mintchev           001020010
+ 4 Marco Controzzi            000201010
+ 4 Wei Gao                    010110100
+ 4 Sawyer B. Fuller           000010210
+ 4 Jonathan Rossiter          001101100
+ 4 Soon-Jo Chung              010002100
+ 4 Ellen T. Roche             000110011
+ 4 Mark R. Cutkosky           011002000
+ 4 Je-Sung Koh                011001100
+ 4 Pierre E. Dupont           002101000
+ 4 Xuanhe Zhao                001110100
+ 4 Dario Floreano             002010100
+                              ---------
+ 3 Silvestro Micera           000100110
+ 3 Yasemin Ozkan Aydin        000012000
+ 3 Benjamin Shih              000110010
+ 3 Jemin Hwangbo              000010110
+ 3 Cecilia Laschi             000110010
+ 3 Sangjun Lee                010001100
+ 3 Takahiro Miki              000000210
+ 3 Yousif Alsaid              000101010
+ 3 Steven H. Collins          000011001
+ 3 Arianna Menciassi          010002000
+ 3 Ximin He                   000101010
+ 3 Yusen Zhao                 000101010
+ 3 Yiannis Aloimonos          000100011
+ 3 Johannes Kuosmanen         000000111
+ 3 Daniel J. Preston          001100100
+ 3 Tim Helps                  001001100
+ 3 David F. Gruber            001100100
+ 3 Dario Farina               001100001
+ 3 Dylan S. Shah              001020000
+ 3 Rebecca Kramer-Bottiglio   001020000
+ 3 Patricia Xu                001110000
+ 3 Katia Bertoldi             001010100
+ 3 Guang-Zhong Yang           000102000
+ 3 George M. Whitesides       001100100
+ 3 Li Wen                     010000110
+ 3 Keiko Ishida               000000111
+ 3 James C. Weaver            011000010
+ 3 Zemin Liu                  010001001
+ 3 Joonho Lee                 000110100
+ 3 Guido C. H. E. de Croon    000100101
+ 3 Cornelia Fermüller         000100011
+ 3 Kakani Katija              000011010
+ 3 Mossab Saeed               010110000
+ 3 Alison Hayward             000000111
+ 3 Josh Jenkins               000000111
+ 3 Brian Kieft                000011010
+ 3 Giovanni Traverso          000000111
+ 3 Chiara Daraio              010101000
+ 3 Angel Romero               000001110
+ 3 Agnieszka Wykowska         000011100
+ 3 Justin K. Yim              100101000
+ 3 Shriya S. Srinivasan       000001101
+ 3 Wenqi Hu                   000001101
+ 3 Ziyu Ren                   000001101
+ 3 Liangfang Zhang            010010100
+ 3 Christopher T. Nguyen      000010011
+ 3 Joseph Wang                010010100
+ 3 Hugh M. Herr               010001001
+ 3 Barbara Mazzolai           100010100
+ 3 Allison M. Okamura         110010000
+                              ---------
+                              111122222
+                              678901234

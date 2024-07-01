@@ -1,0 +1,73 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --rss-brand-color-rgb: 58, 57, 70;
+  --text-base-rgb: 0, 0, 0;
+  --text-base-inv-rgb: 255, 255, 255;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --text-base-rgb: 255, 255, 255;
+    --text-base-inv-rgb: 0, 0, 0;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+@layer base {
+}
+
+@layer components {
+  .preamble {
+    @apply mx-8 my-4 text-sm;
+  }
+  header {
+    @apply sticky top-0 z-50;
+    @apply flex flex-col lg:flex-row items-center justify-between w-full p-4 bg-white dark:bg-neutral-900 border-b border-gray-200 dark:border-gray-700;
+  }
+
+  footer {
+    @apply flex items-center justify-center w-full p-4;
+    @apply sticky bottom-0 z-50;
+    @apply bg-gradient-to-t from-white via-white dark:from-black dark:via-black lg:static lg:size-auto lg:bg-none;
+  }
+
+  main {
+    @apply flex flex-col flex-grow min-w-full justify-center items-center;
+    @apply h-full;
+  }
+
+  button {
+    @apply text-sm;
+  }
+
+  .btn-active {
+    @apply font-bold underline;
+  }
+
+  .btn-inactive {
+    @apply no-underline;
+  }
+
+  a {
+    @apply underline;
+    color: rgb(var(--text-base-rgb));
+  }
+  p {
+    @apply mb-2;
+  }
+  ul {
+    @apply list-disc pl-4 mb-2;
+  }
+  pre {
+    @apply overflow-x-auto;
+  }
+}
+
+@layer utilities {
+}
