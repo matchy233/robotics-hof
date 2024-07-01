@@ -11,7 +11,7 @@ export default function TRO() {
       }
       >
       <p>
-        The attached table lists authors with <strong>three</strong> or more
+        The attached table lists authors with <strong>ten</strong> or more
         total papers in <strong>IEEE Transactions on Robotics</strong>. The
         number in a column indicates the number of papers the individual had
         that year.

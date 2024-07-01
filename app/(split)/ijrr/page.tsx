@@ -11,7 +11,7 @@ export default function IJRR() {
       }
     >
       <p>
-        The attached table lists authors with <strong>three</strong> or more
+        The attached table lists authors with <strong>eight</strong> or more
         total papers in{" "}
         <strong>International Journal of Robotics Research</strong>. The number
         in a column indicates the number of papers the individual had that year.
