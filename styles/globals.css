@@ -40,6 +40,7 @@
   main {
     @apply flex flex-col flex-grow;
     @apply h-full w-full;
+    @apply text-sm;
   }
 
   button {
