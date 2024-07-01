@@ -61,7 +61,10 @@
   }
 
   h1 {
-    @apply text-xl font-bold;
+    @apply text-xl font-bold mb-4;
+  }
+  header h1 {
+    @apply text-2xl mb-0;
   }
   a {
     @apply underline text-blue-500;
