@@ -22,7 +22,7 @@ export default function RoboticsLayout({
         <div>
           © {new Date().getFullYear()}{" "}
           <Link href="https://matchy.bio">Matchy</Link>{" "}
-          | <Link href="/qna">Q&A</Link>
+          | <Link href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</Link>
         </div>
       </footer>
     </Fragment>
