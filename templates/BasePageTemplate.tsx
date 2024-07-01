@@ -7,7 +7,9 @@ const BasePageTemplate = (props: {
   return (
     <Fragment>
       <div className="preamble">{props.children}</div>
-      <main>{props.table}</main>
+      <main>
+        <div className="text-center">{props.table}</div>
+      </main>
     </Fragment>
   );
 };

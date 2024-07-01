@@ -38,7 +38,7 @@
   }
 
   main {
-    @apply flex flex-col flex-grow lg:justify-center lg:items-center;
+    @apply flex flex-col flex-grow;
     @apply h-full w-full;
   }
 
@@ -73,7 +73,7 @@
     @apply list-disc pl-4 mb-2;
   }
   pre {
-    @apply overflow-x-auto w-auto;
+    @apply overflow-x-auto w-auto block mt-0 mx-4 mb-4;
   }
 }
 
